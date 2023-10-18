@@ -1,0 +1,12 @@
+Backend Notes:
+Controller folder contains the function.
+Routes folded contains the routes, and it utilises the functions in controller folder
+
+Frontend Notes:
+store.js will serve as a store for our state.
+Action --> what to do to a state.
+Reducer --> how to do the Action
+/home/user/Pictures/Screenshots/Screenshot from 2023-10-18 17-32-07.png
+
+
+
